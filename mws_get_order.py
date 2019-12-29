@@ -15,7 +15,7 @@ MwsDomain = "https://mws.amazonservices.com"
 AWSAccessKeyId = ""
 MWSAuthToken = ""
 SellerId = ""
-SecretKey = "" ## hub
+SecretKey = "" 
 MarketplaceId = "A2Q3Y263D00KWC" ## brazil
 
 def __main__():
